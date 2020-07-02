@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WorkoutTimer</string>
+    <string name="app_title">Workout Timer</string>
+    <string name="app_add_workout">Add New Workout</string>
+    <string name="app_create_title">Create Workout</string>
+    <string name="app_input_name">Workout Name</string>
 </resources>
